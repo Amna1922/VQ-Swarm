@@ -1,0 +1,48 @@
+{
+  "mean_success_rate": 48.03921568627451,
+  "std_success_rate": 28.43137254901961,
+  "mean_bandwidth": 543.2843137254902,
+  "std_bandwidth": 627.3564358151045,
+  "all_results": [
+    {
+      "seed": 0,
+      "success_rate": 1.9607843137254901,
+      "bandwidth": 1573.0196078431372
+    },
+    {
+      "seed": 1,
+      "success_rate": 72.54901960784314,
+      "bandwidth": 115.6078431372549
+    },
+    {
+      "seed": 2,
+      "success_rate": 70.58823529411765,
+      "bandwidth": 43.450980392156865
+    },
+    {
+      "seed": 3,
+      "success_rate": 31.372549019607842,
+      "bandwidth": 884.7058823529412
+    },
+    {
+      "seed": 4,
+      "success_rate": 70.58823529411765,
+      "bandwidth": 0.3137254901960784
+    },
+    {
+      "seed": 5,
+      "success_rate": 7.8431372549019605,
+      "bandwidth": 1485.8823529411766
+    },
+    {
+      "seed": 6,
+      "success_rate": 76.47058823529412,
+      "bandwidth": 115.29411764705883
+    },
+    {
+      "seed": 7,
+      "success_rate": 52.94117647058824,
+      "bandwidth": 128.0
+    }
+  ]
+}
